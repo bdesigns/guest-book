@@ -1,5 +1,5 @@
 # Guestbook-app
-
+Fun little project to create a guess book post componant.
 ## Project setup
 ```
 npm install
