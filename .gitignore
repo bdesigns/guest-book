@@ -7,6 +7,8 @@ node_modules
 # local env files
 .env.local
 .env.*.local
+server.js
+guestbook.json
 
 # Log files
 npm-debug.log*
